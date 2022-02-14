@@ -13,8 +13,6 @@ book = {
 }
 
 
-
-
 def add_book(book):
     key = ref.push(book).key
     # print(key)
