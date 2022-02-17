@@ -1,9 +1,9 @@
 def api_post_data():
-    return 0
+    return "Book Added", 200
 
 def api_book_data():
-    return 0
+    return "Book Data", 200
 
 def api_allbook_data():
-    return 0
+    return "All Books Data", 200
 
